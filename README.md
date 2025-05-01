@@ -2,6 +2,7 @@
 - 👀 I’m interested in a few things
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on some things
+- THIS IS THE FIRST CHANGE I AM MAKING. WILL THIS BE VISIBLE TO ANYONE?
 
 
 <!---
